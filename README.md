@@ -32,7 +32,6 @@ As atividades da disciplina são conduzidas em **Google Colab**, uma plataforma 
 * Validação cruzada e ajuste de hiperparâmetros
 * Avaliação de desempenho com métricas adequadas
 * Introdução a redes neurais e visão computacional
-* Ética e responsabilidade no uso de modelos preditivos
 
 ---
 
@@ -96,7 +95,7 @@ As atividades da disciplina são conduzidas em **Google Colab**, uma plataforma 
 
 **Nível**: Avançado – Integração de todo o conteúdo do curso
 
-### 📘 Resumo em Tabela:
+### Resumo em Tabela:
 
 | Dataset                   | Tipo                   | Tamanho | Nível         | Técnica sugerida              |
 | ------------------------- | ---------------------- | ------- | ------------- | ----------------------------- |
@@ -106,4 +105,29 @@ As atividades da disciplina são conduzidas em **Google Colab**, uma plataforma 
 | House Sales (King County) | Regressão              | Grande  | Intermediário | Regressão, árvores, ensembles |
 
 
-# 25B3_ml
+### Prova
+
+- Todo o conteúdo apresentado
+- Enfoque prático
+- Dissertativa e sem o uso de computadores
+
+
+## Critérios de avaliação
+
+A nota final será composta pelos seguintes critérios:
+
+| Componente                          | Peso |
+| ----------------------------------- | ---- |
+| Prova (conteúdo teórico e prático)  | 40%  |
+| Projeto Final em Grupo              | 40%  |
+| Atividades individuais (5 no total) | 20%  |
+
+
+### Observações:
+
+- A prova será aplicada de forma presencial ou online, conforme o calendário da disciplina.
+
+- O projeto final será avaliado com base na originalidade, profundidade da análise e clareza da apresentação.
+
+- As atividades individuais ao longo do semestre visam fixar os conceitos e serão realizadas via notebooks no Colab.
+
